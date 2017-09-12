@@ -41,3 +41,45 @@ c:\users\hughj\documents\visual studio 2017\Projects\LoLBot\LoLBot\obj\Debug\LoL
 c:\users\hughj\documents\visual studio 2017\Projects\LoLBot\LoLBot\obj\Debug\Bot Application.dll
 c:\users\hughj\documents\visual studio 2017\Projects\LoLBot\LoLBot\obj\Debug\Bot Application.pdb
 C:\Users\hughj\documents\visual studio 2017\Projects\LoLBot\LoLBot\bin\Bot Application.dll.config
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\Bot Application.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\Bot Application.pdb
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\Autofac.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\Chronic.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\Newtonsoft.Json.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\System.Web.Http.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\Autofac.xml
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\Newtonsoft.Json.xml
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\System.Web.Http.xml
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\obj\Debug\LoLBot.csprojResolveAssemblyReference.cache
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\obj\Debug\Bot Application.dll
+C:\Users\Hugh\Documents\Visual Studio 2017\Projects\LoLBot\LoLBot\obj\Debug\Bot Application.pdb
