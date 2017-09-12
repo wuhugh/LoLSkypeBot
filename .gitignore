@@ -288,4 +288,4 @@ __pycache__/
 *.xsd.cs
 
 # Microsoft Bot ID
-config.txt
+/config.txt
