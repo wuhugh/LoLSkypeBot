@@ -41,14 +41,29 @@
                     font-size: 48px;
                 }
 
+            p {
+                font-size: 24px;
+                line-height: 30px;
+            }
+
             .round-corners {
                 border-radius: 50%;
             }
 
-            #contact {
+            .text-center {
                 text-align: center;
             }
-            
+
+            .block-center {
+                display: block;
+                margin: auto;
+            }
+
+            #contact {
+                position: relative;
+                bottom: 10px;
+            }
+
         </style>
 
     </head>
@@ -58,14 +73,13 @@
             <div id="banner">
                 <h1>LoL Skype Bot</h1>
             </div>
-            <img src="assets/Blitzcrank_Poro_Icon.png" class="round-corners" alt="Blitcrank Poro" />
-            <p>This is a simple Skype bot that makes calls to Riot Game's API to retrieve data about players and the game.</p>
-            <p>Anyone may add and use the bot, as well as edit the source code.</p>
-            <p>It is not affiliated with Riot Games in any way.</p>
+            <img src="assets/Blitzcrank_Poro_Icon.png" class="round-corners block-center" alt="Blitcrank Poro" />
+            <p>This is a simple Skype bot that makes calls to the <a href="https://developer.riotgames.com/"><img src="assets/Riot_Games_logo.png" width=28 height=19 alt="Riot Games' Logo"></a> API to retrieve data about players and the game. </p>
 
             
-            <div id="contact">
-                <i>Hugh Wu &copy; 2017</i>
+            <div class= "text-center" id="contact">
+                <i>Hugh Wu &copy; 2017</i><br>
+                <i>LoL Skype Bot is not affiliated with either Riot Games or Skype. I also found these images on the web so let me know if they are yours.</i>
             </div>
         </div>
         
